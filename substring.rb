@@ -8,3 +8,4 @@ if str1.include? substr1
 else
 	puts "false"
 end
+
