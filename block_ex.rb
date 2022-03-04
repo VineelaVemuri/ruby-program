@@ -34,4 +34,5 @@ arr = [10, 11, 13, 41, 59]
   
 arr.each do | item |
 puts item
+puts item * 2
 end
